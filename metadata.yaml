@@ -1,0 +1,51 @@
+_repo: As-Farpas--Chronica-Mensal-da-Politica-das-Letras-e-dos-Costumes--1878-02-05-_13093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Queirós, Eça de
+    aliases:
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Eça de
+    - Queirós, José Maria Eça de
+    - Queiroz, Eca de
+    - Queiroz, José Maria Eça de
+    - Queiroz, Jose Maria Eca de
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
+  - agent_name: Ortigão, José Duarte Ramalho
+    aliases:
+    - Ortigão, Ramalho
+    - Ortigao, Jose Duarte Ramalho
+    birthdate: 1836
+    deathdate: 1915
+    gutenberg_agent_id: '4827'
+    url: http://www.gutenberg.org/2009/agents/4827
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Ramalho_Ortigão
+    - http://en.wikipedia.org/wiki/Ramalho_Ortigão
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13093'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- Civilization -- Periodicals'
+- !lcsh 'Portugal -- Social life and customs -- Periodicals'
+- !lcsh 'Portugal -- Politics and government -- Periodicals'
+- !lcc 'AP'
+- !lcc 'DP'
+title: 'As Farpas: Chronica Mensal da Politica, das Letras e dos Costumes (1878-02/05)'
+url: http://www.gutenberg.org/ebooks/13093
